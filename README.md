@@ -11,4 +11,19 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 - Data manipulation
 - Mathematical calculations
 - Data visualisation
+## Outline
+1. Google Play Store apps and reviews
+2. Data cleaning
+3. Correcting data types
+4. Exploring app categories
+5. Distribution of app ratings
+6. Size and price of an app
+7. Relation between app category and app price
+8. Filter out "junk" apps
+9. Popularity of paid apps vs free apps
+10. Sentiment analysis of user reviews
 ## Some visalisations from the project
+![newplot](https://user-images.githubusercontent.com/102339940/160275696-0db322c2-1f11-434f-b95d-b36820108f48.png)
+![download](https://user-images.githubusercontent.com/102339940/160275698-bb3b2ad2-ff70-4e55-ae3d-c09e11ea4cf0.png)
+![newplot (1)](https://user-images.githubusercontent.com/102339940/160275695-72445a24-60aa-4ad1-a07f-7012dd2c6c1b.png)
+
